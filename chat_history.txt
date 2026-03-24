@@ -1,0 +1,8 @@
+You: hii
+Bot: Sorry, I don't understand
+You: hello
+Bot: Hi! How can I help you?
+You: how are you
+Bot: I am fine 
+You: bye
+Bot: Goodbye!
